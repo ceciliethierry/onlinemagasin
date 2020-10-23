@@ -1,0 +1,36 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    background-image: url(logo6.png);
+    height: 30vh;
+    background-size: auto;
+    background-position: top;
+    background-position: left;
+    background-repeat: no-repeat;
+
+}
+
+.main-nav
+{
+    float; right;
+    list-style: none;
+    margin-top: 30px; 
+}
+
+.main-nav li
+{
+ display: inline-block;    
+}
+
+.main-nav li a
+{
+    color: darkseagreen;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: sans-serif
+}
